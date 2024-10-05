@@ -1,0 +1,22 @@
+{
+  "idType": "hpr_id",
+  "domainName": "@hpr.abdm",
+  "address": "9th Floor, Tower-l, Jeevan Bharati Building, Connaught Place, New Delhi - 110001",
+  "gender": "M",
+  "hprId": "user@hpr.abdm",
+  "name": "Ayushman",
+  "lastName": "Mission",
+  "middleName": "Bharat",
+  "mobile": "9988776655",
+  "dayOfBirth": "15",
+  "monthOfBirth": "8",
+  "yearOfBirth": "2021",
+  "password": "Ayushman@143",
+  "profilePhoto": "<BASE64 ENCODED STRING>",
+  "state": "7",
+  "district": "71",
+  "hpCategoryCode": 1,
+  "hpSubCategoryCode": 1,
+  "email": "user@abdm.com",
+  "txnId": "c3b0c27d-e19d-4244-b8bb-3fa19285054a"
+}
